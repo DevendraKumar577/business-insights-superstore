@@ -15,7 +15,7 @@ The goal is to understand overall sales and profit trends and summarize performa
 - Python – for data processing and summary generation  
 - Jupyter Notebook – for analysis workflow  
 - CSV files – for structured data storage  
-- GitHub – for version control and project sharing  
+- GitHub – for project sharing  
 
 ## Files in Repository
 - business_insights_project.ipynb – data analysis and summary generation  
