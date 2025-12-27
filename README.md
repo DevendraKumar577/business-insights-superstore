@@ -4,6 +4,8 @@
 This project focuses on analyzing business performance data and presenting key insights through a KPI-driven dashboard.  
 The goal is to understand overall sales and profit trends and summarize performance across categories, regions, and years using clear and structured analysis.
 
+📌 Download `project_dashboard.pbix` to view the interactive Power BI dashboard.
+ 
 ## Key Analysis
 - Analyzed overall business performance using total sales and total profit KPIs.
 - Studied sales distribution across product categories to identify top-performing categories.
